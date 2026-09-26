@@ -100,6 +100,8 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\third_party_api_extractor\
 
 `WorldBox`, `WorldBox Mod`, `WorldBox 0.51.2`, `WorldBox build 719`, `NeoModLoader`, `NML 1.2.0.1`, `Harmony 2.9.0.0`, `Unity 2022.3.60f1`, `Assembly-CSharp`, `Assembly-CSharp-Publicized`, `Unity API`, `third-party DLL API`, `C# modding`, `C# game modding`, `Unity modding`, `Harmony patch`, `IL patching`, `Mono.Cecil`, `mod development`, `mod loader`, `game reverse engineering`, `API knowledge base`, `AI coding knowledge`, `AI mod development`, `WorldBox Chinese`, `WorldBox tools`, `WorldBox developer tools`, `publicized API`, `runtime verification`, `DLL hash`, `MVID`, `JSONL API index`, `versioned API profile`.
 
+中文搜索关键词：`世界盒子`、`世界盒子模组`、`世界盒子开发`、`世界盒子 API`、`世界盒子 Mod`、`世界盒子模组开发`、`世界盒子插件`、`世界盒子教程`、`世界盒子排错`、`世界盒子运行日志`、`世界盒子程序集`、`世界盒子反编译`、`世界盒子 Harmony`、`世界盒子 NeoModLoader`、`模组开发`、`模组编写`、`模组加载器`、`Unity 模组`、`C# 模组`、`Harmony 补丁`、`DLL 分析`、`程序集分析`、`API 索引`、`运行时排错`、`游戏模组`、`AI 知识库`、`AI 编程`、`AI 辅助排错`、`本地知识库`、`版本化知识库`、`原包`、`精选包`、`世界盒子蒸馏`。
+
 ## 说明与归属
 
 WorldBox、Unity、NeoModLoader、Harmony 及其他第三方程序集的名称和版权归各自权利人所有。本仓库主要提供索引、版本指纹、查询工具、校验工具和开发说明；使用者应遵守相关软件的许可、服务条款和适用法律。
