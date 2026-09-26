@@ -1,0 +1,10 @@
+{
+  "name": "WorldBox Mod Template",
+  "author": "YourName",
+  "version": "0.1.0",
+  "description": "Portable NeoModLoader 1.2.0.1 mod template",
+  "targetGameBuild": 719,
+  "GUID": "WorldBoxMod.Template",
+  "Dependencies": [],
+  "OptionalDependencies": []
+}

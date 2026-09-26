@@ -1,0 +1,38 @@
+{
+    "schema_version":  "1.0",
+    "library_id":  "worldbox-ai-knowledge-total-library",
+    "generated_at_utc":  "2026-09-26T12:13:12.8529174Z",
+    "game":  {
+                 "version":  "0.51.2",
+                 "build":  "719@build-719@5dec",
+                 "unity_version":  "2022.3.60f1 (5f63fdee6d95)",
+                 "assembly_csharp_sha256":  "51D275F0168BE2F6CA26341AB292406714E694E0270EAFCB25B999D5DF6DD69F",
+                 "assembly_csharp_mvid":  "3aa7d3da-1573-446f-8db1-3cd80acc5c24"
+             },
+    "default_package":  {
+                            "path":  "../精选包",
+        "guide":  "../精选包/AI_INGESTION_GUIDE.md",
+        "manifest":  "../精选包/ai_manifest.json",
+        "index":  "../精选包/ai_file_index.jsonl",
+        "human_report":  "../精选包/worldbox_ai_knowledge_report.html"
+    },
+    "notes_directory":  "AI_NOTES",
+    "canonical_sources":  [
+                              "api",
+                              "environment",
+                              "templates",
+                              "tools"
+                          ],
+    "full_library_sources":  [
+                                 "worldbox_ai_knowledge_report.html"
+                             ],
+    "legacy_removed":  true,
+    "precedence":  {
+                       "current_api":  "api/*.types.jsonl",
+                       "compile_surface":  "api/publicized_compile_api.types.jsonl",
+                       "raw_access_and_il":  "api/raw_game_api.types.jsonl",
+                       "runtime_truth":  "current Assembly-CSharp.dll and verification output first; then the user's Player.log, logs/error_*.log, and selected mod source/build output at user-provided paths",
+                       "archive":  "legacy removed"
+                       },
+    "rule":  "Use the sibling ../精选包 first. This 原包 folder contains the remaining current supporting materials and the human report."
+}

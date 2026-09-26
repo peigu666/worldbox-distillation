@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "role": "harmony",
+  "source_role": "0Harmony",
+  "portable_path": "worldbox_Data/StreamingAssets/mods/NML/Assemblies/0Harmony.dll",
+  "path_at_generation": "D:\\worldbox\\worldbox_Data\\StreamingAssets\\mods\\NML\\Assemblies\\0Harmony.dll",
+  "file": {
+    "portable_path": "worldbox_Data/StreamingAssets/mods/NML/Assemblies/0Harmony.dll",
+    "path_at_generation": "D:\\worldbox\\worldbox_Data\\StreamingAssets\\mods\\NML\\Assemblies\\0Harmony.dll",
+    "size": 205824,
+    "last_write_time_utc": "2026-05-22T19:33:45.2002285Z",
+    "sha256": "DFBD444EA824F2C2D2C67A69FFBE13695FA740981E08A3EA04845582F901B0F2"
+  },
+  "assembly_full_name": "0Harmony, Version=2.9.0.0, Culture=neutral, PublicKeyToken=null",
+  "assembly_name": "0Harmony",
+  "assembly_version": "2.9.0.0",
+  "runtime_version": "v4.0.30319",
+  "module_name": "0Harmony.dll",
+  "mvid": "26c4a01a-d38b-42c3-bb84-784da4694f8e",
+  "type_count": 232,
+  "method_count": 1223,
+  "field_count": 674,
+  "public_method_count": 729,
+  "public_field_count": 461,
+  "enum_count": 10,
+  "compiler_generated_type_count": 118,
+  "include_il": true,
+  "api_jsonl": "api/harmony_api.types.jsonl",
+  "assembly_references": [
+    "Mono.Cecil, Version=0.10.4.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e",
+    "MonoMod.RuntimeDetour, Version=22.1.29.1, Culture=neutral, PublicKeyToken=null",
+    "MonoMod.Utils, Version=22.1.29.1, Culture=neutral, PublicKeyToken=null",
+    "System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+    "System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+    "mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+  ]
+}

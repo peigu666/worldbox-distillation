@@ -1,0 +1,60 @@
+{
+    "schema_version":  "1.0",
+    "pack_id":  "worldbox-ai-knowledge-ai-ready",
+    "pack_version":  "1.0.0",
+    "generated_at_utc":  "2026-09-26T11:38:43.4365233Z",
+    "source_pack_id":  "worldbox-ai-knowledge-complete",
+    "source_pack_version":  "1.0.0",
+    "game":  {
+                 "version":  "0.51.2",
+                 "build":  "719@build-719@5dec",
+                 "unity_version":  "2022.3.60f1 (5f63fdee6d95)",
+                 "assembly_csharp_sha256":  "51D275F0168BE2F6CA26341AB292406714E694E0270EAFCB25B999D5DF6DD69F",
+                 "assembly_csharp_mvid":  "3aa7d3da-1573-446f-8db1-3cd80acc5c24"
+             },
+    "neo_mod_loader":  {
+                           "version":  "1.2.0.1",
+                           "sha256":  "E05FFB01B1E29A07F1BDD94D7BDE2A00A536C8AC8703A63F51BBBA743E40F93D",
+                           "pdb_sha256":  "7DA1494D442BD7865C600AE17F10A189D896091E231E1F10F40875ECDFDC4E2F"
+                       },
+    "canonical_roots":  [
+                            "api",
+                            "environment",
+                            "templates",
+                            "tools"
+                        ],
+    "optional_package":  null,
+    "related_library":  "原包（桌面双文件夹布局中的同级资料库）",
+    "ingestion_order":  [
+                            "AI_INGESTION_GUIDE.md",
+                            "environment/*.json",
+                            "api/*.manifest.json",
+                            "api/*.index.json",
+                            "api/*_api.types.jsonl",
+                            "templates/*"
+                        ],
+    "precedence":  {
+                       "current_api":  "api/*.types.jsonl",
+                       "compile_surface":  "api/publicized_compile_api.types.jsonl",
+                       "raw_access_and_il":  "api/raw_game_api.types.jsonl",
+                       "runtime_truth":  "current DLL and verification output first; then the user's Player.log, logs/error_*.log, and selected mod source/build output at user-provided paths",
+                       "archive":  "legacy and full installed-mod source snapshot removed"
+                       },
+    "human_reference":  [
+                             "worldbox_ai_knowledge_report.html"
+                         ],
+    "excluded_from_default":  [
+                              ],
+    "not_default_ingestion":  [
+                                  "worldbox_ai_knowledge_report.html"
+                              ],
+    "notes":  [
+                  "Raw game API and Publicized compile API are intentionally separate.",
+                  "The curated source snapshot was removed; when a concrete mod is involved, read only the user's selected mod source and project files at their actual paths.",
+                  "Player-specific runtime logs are intentionally excluded; when diagnosing behavior, read the current user's Player.log and error logs at their actual paths.",
+                  "WorldBox, Mods, log, and source paths vary by user; never assume D:\\worldbox or the generation machine's absolute paths.",
+                  "Do not trust path_at_generation as a runtime path; use portable_path and verify hashes.",
+                  "The human HTML report is present in this package for manual browsing, but it is not a default AI source.",
+                  "The legacy archive and full installed-mod source snapshot were removed as obsolete."
+              ]
+}

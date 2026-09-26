@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "generated_by": "worldbox-ai-knowledge-generator/1.0.0",
+  "generated_at_utc": "2026-09-26T11:02:50.9654788+00:00",
+  "parser": {
+    "name": "Mono.Cecil",
+    "assembly_full_name": "Mono.Cecil, Version=0.10.4.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e",
+    "assembly_version": "0.10.4.0",
+    "informational_version": "0.10.4.0",
+    "file": {
+      "portable_path": "tools/parser_runtime/Mono.Cecil.dll",
+      "path_at_generation": "C:\\Users\\Administrator\\Documents\\Codex\\2026-09-26\\e-skill-ai-e-skill-neomodloader\\work\\WorldBoxKnowledgePackGenerator\\bin\\Debug\\net8.0\\Mono.Cecil.dll",
+      "size": 339456,
+      "last_write_time_utc": "2026-05-22T19:33:45.2122285Z",
+      "sha256": "7AE470288FFF4A402899C254D0A76CEFEF55877F5C54F96E83C797CC5BB6E2F6"
+    }
+  },
+  "runtime": {
+    "framework": ".NET 8.0.29",
+    "runtime_version": "8.0.29",
+    "process_architecture": "X64"
+  }
+}

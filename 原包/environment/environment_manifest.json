@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "generated_by": "worldbox-ai-knowledge-generator/1.0.0",
+  "generated_at_utc": "2026-09-26T11:02:50.9654788+00:00",
+  "worldbox_root_at_generation": "D:\\worldbox",
+  "game": {
+    "version_from_log": "0.51.2",
+    "build_from_log": "719@build-719@5dec",
+    "unity_version": "2022.3.60f1 (5f63fdee6d95)",
+    "worldbox_executable": {
+      "portable_path": "worldbox.exe",
+      "path_at_generation": "D:\\worldbox\\worldbox.exe",
+      "size": 666624,
+      "last_write_time_utc": "2025-09-13T13:29:05.434101Z",
+      "sha256": "44E896CDA69C9BF36426E22C56458213C96C81C462970222E6EDAF0C0400276B"
+    },
+    "assembly_csharp": {
+      "portable_path": "worldbox_Data/Managed/Assembly-CSharp.dll",
+      "path_at_generation": "D:\\worldbox\\worldbox_Data\\Managed\\Assembly-CSharp.dll",
+      "size": 4535296,
+      "last_write_time_utc": "2025-09-13T13:29:05.4394174Z",
+      "sha256": "51D275F0168BE2F6CA26341AB292406714E694E0270EAFCB25B999D5DF6DD69F"
+    },
+    "assembly_csharp_mvid": "3aa7d3da-1573-446f-8db1-3cd80acc5c24"
+  },
+  "neo_mod_loader": {
+    "version": "1.2.0.1",
+    "commit": "02266fe8185d940c4065185de0a117c18975cf09",
+    "installed_path_at_generation": "D:\\worldbox\\worldbox_Data\\StreamingAssets\\mods\\NeoModLoader.dll",
+    "sha256": "E05FFB01B1E29A07F1BDD94D7BDE2A00A536C8AC8703A63F51BBBA743E40F93D",
+    "pdb_sha256": "7DA1494D442BD7865C600AE17F10A189D896091E231E1F10F40875ECDFDC4E2F"
+  },
+  "ncms_memload_present": false,
+  "log_source_at_generation": "C:\\Users\\Administrator\\AppData\\LocalLow\\mkarpenko\\WorldBox\\Player.log",
+  "loader_reference": {
+    "schema_version": "1.0",
+    "generated_by": "worldbox-ai-knowledge-generator/1.0.0",
+    "source_root_at_generation": "C:\\Users\\Administrator\\Desktop\\模组装载器NeoModLoader_1.2.0.1(适用于0.51.+)",
+    "neo_mod_loader": {
+      "portable_path": "reference/NeoModLoader.dll",
+      "path_at_generation": "C:\\Users\\Administrator\\Desktop\\模组装载器NeoModLoader_1.2.0.1(适用于0.51.+)\\NeoModLoader.dll",
+      "size": 22558208,
+      "last_write_time_utc": "2025-09-12T02:40:48Z",
+      "sha256": "E05FFB01B1E29A07F1BDD94D7BDE2A00A536C8AC8703A63F51BBBA743E40F93D"
+    },
+    "neo_mod_loader_pdb": {
+      "portable_path": "reference/NeoModLoader.pdb",
+      "path_at_generation": "C:\\Users\\Administrator\\Desktop\\模组装载器NeoModLoader_1.2.0.1(适用于0.51.+)\\NeoModLoader.pdb",
+      "size": 162340,
+      "last_write_time_utc": "2025-09-12T02:40:46Z",
+      "sha256": "7DA1494D442BD7865C600AE17F10A189D896091E231E1F10F40875ECDFDC4E2F"
+    },
+    "matches_installed": true
+  }
+}

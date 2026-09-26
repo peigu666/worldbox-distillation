@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "generated_by": "worldbox-ai-knowledge-generator/1.0.0",
+  "source_root_at_generation": "C:\\Users\\Administrator\\Desktop\\模组装载器NeoModLoader_1.2.0.1(适用于0.51.+)",
+  "neo_mod_loader": {
+    "portable_path": "reference/NeoModLoader.dll",
+    "path_at_generation": "C:\\Users\\Administrator\\Desktop\\模组装载器NeoModLoader_1.2.0.1(适用于0.51.+)\\NeoModLoader.dll",
+    "size": 22558208,
+    "last_write_time_utc": "2025-09-12T02:40:48Z",
+    "sha256": "E05FFB01B1E29A07F1BDD94D7BDE2A00A536C8AC8703A63F51BBBA743E40F93D"
+  },
+  "neo_mod_loader_pdb": {
+    "portable_path": "reference/NeoModLoader.pdb",
+    "path_at_generation": "C:\\Users\\Administrator\\Desktop\\模组装载器NeoModLoader_1.2.0.1(适用于0.51.+)\\NeoModLoader.pdb",
+    "size": 162340,
+    "last_write_time_utc": "2025-09-12T02:40:46Z",
+    "sha256": "7DA1494D442BD7865C600AE17F10A189D896091E231E1F10F40875ECDFDC4E2F"
+  },
+  "matches_installed": true
+}
